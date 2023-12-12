@@ -1,3 +1,8 @@
+## WEEK1 LAB SESSION
+
+#### https://us05web.zoom.us/j/84497126908?pwd=a3DbO2nXDczEqoRw29HSJPMCaobWGU.1
+#### Timing is 8PM IST / 9.30AM IST
+
 ## Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
 
