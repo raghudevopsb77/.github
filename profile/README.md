@@ -1,7 +1,8 @@
-## WEEK1 LAB SESSION
+## Make Notes.
+During the training days you need to spend time and make notes, As it really benefit you in long term, So I would suggest to make in the way that is explained in the following video.
+Feel free to follow your own pattern that works for you, Only expectation is the that should help you in referencing the content whenever you need it.
 
-#### https://us05web.zoom.us/j/84497126908?pwd=a3DbO2nXDczEqoRw29HSJPMCaobWGU.1
-#### Timing is 8PM IST / 9.30AM EST
+### https://youtu.be/JwqtkS3Qk4k
 
 ## Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
