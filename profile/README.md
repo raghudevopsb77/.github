@@ -13,11 +13,6 @@ Feel free to follow your own pattern that works for you, Only expectation is the
 
 #### https://learndevopsonline.github.io/learndevopsonline/build/docs/intro
 
-## Youtube Videos : 
-You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
-
-#### https://www.youtube.com/playlist?list=PLLmNg_q93mezqcsUsh2ba3sALRFoqOkt-
-
 ### Miro Dashboard:
 We make some mindmap diagrams during the training, That diagrams and notes can be viewed on this link.
 
