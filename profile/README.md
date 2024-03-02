@@ -17,6 +17,9 @@ We make some mindmap diagrams during the training, That diagrams and notes can b
 
 #### https://miro.com/app/board/uXjVNEHO0q8=/?share_link_id=292069996602
 
+### Import RoboShop Repos
+#### https://github.com/roboshop-devops-project-v1/
+
 #### AWS Account SignUP Video :	 https://www.youtube.com/watch?v=JFwAS_8BZvM
 #### AWS Account SignUP URL :	   https://portal.aws.amazon.com/billing/signup#/start/email
 #### AWS Login Page : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
